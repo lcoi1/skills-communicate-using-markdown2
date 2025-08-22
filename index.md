@@ -8,3 +8,5 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` c
 char myVar = "Hello, world!";
 ```
+- [ ] finished
+- [ ] Turn on GitHub Pages
